@@ -1,0 +1,301 @@
+ExitID,EmployeeID,DateOfExit,Reason,ExitInterviewStatus
+1,1602,2025-09-09,Retirement,Completed
+2,1006,2022-07-27,Personal,Completed
+3,458,2023-02-19,Layoff,Pending
+4,1313,2020-12-07,Performance,Pending
+5,840,2025-03-31,Personal,Completed
+6,848,2025-02-06,Personal,Skipped
+7,707,2024-12-31,Retirement,Completed
+8,1064,2023-07-17,Layoff,Completed
+9,8,2025-08-11,Retirement,Pending
+10,1189,2019-01-02,Layoff,Skipped
+11,229,2024-09-17,Layoff,Pending
+12,1270,2024-02-12,Performance,Skipped
+13,1316,2022-04-27,Personal,Pending
+14,1632,2024-07-24,Personal,Skipped
+15,1430,2022-09-13,Layoff,Pending
+16,655,2023-04-05,Layoff,Pending
+17,1991,2022-11-18,Performance,Pending
+18,1700,2021-04-10,Personal,Skipped
+19,1965,2021-07-06,Performance,Completed
+20,1484,2017-11-29,Performance,Pending
+21,192,2023-09-15,Better Offer,Skipped
+22,300,2025-01-12,Better Offer,Pending
+23,1271,2022-12-21,Personal,Pending
+24,1130,2023-03-23,Personal,Completed
+25,381,2022-08-06,Personal,Pending
+26,516,2025-07-07,Layoff,Skipped
+27,1799,2022-03-07,Better Offer,Skipped
+28,1577,2014-05-09,Personal,Pending
+29,1350,2025-01-04,Performance,Pending
+30,1762,2017-12-21,Layoff,Skipped
+31,1025,2015-09-30,Better Offer,Skipped
+32,54,2021-06-09,Layoff,Completed
+33,1744,2019-07-28,Personal,Pending
+34,216,2024-06-24,Better Offer,Pending
+35,756,2018-07-14,Better Offer,Pending
+36,1063,2025-04-25,Layoff,Completed
+37,1319,2024-09-19,Retirement,Skipped
+38,1342,2019-05-28,Layoff,Skipped
+39,706,2019-11-30,Layoff,Completed
+40,1222,2017-05-06,Better Offer,Pending
+41,1200,2025-01-02,Layoff,Skipped
+42,1351,2025-08-22,Personal,Completed
+43,1466,2024-03-20,Retirement,Skipped
+44,900,2023-12-26,Personal,Skipped
+45,115,2025-02-17,Personal,Completed
+46,1047,2021-09-11,Performance,Completed
+47,1269,2022-01-17,Better Offer,Skipped
+48,1303,2018-06-25,Retirement,Skipped
+49,839,2021-10-04,Retirement,Completed
+50,1734,2024-09-02,Personal,Skipped
+51,711,2023-03-04,Better Offer,Completed
+52,1235,2022-10-27,Layoff,Pending
+53,142,2012-03-16,Better Offer,Completed
+54,67,2016-06-10,Personal,Completed
+55,126,2024-10-02,Layoff,Skipped
+56,1684,2025-05-22,Performance,Pending
+57,38,2025-04-04,Better Offer,Skipped
+58,735,2021-02-11,Better Offer,Pending
+59,825,2024-03-19,Better Offer,Completed
+60,212,2024-09-15,Performance,Completed
+61,510,2024-01-15,Performance,Completed
+62,461,2023-05-21,Performance,Completed
+63,469,2022-03-28,Better Offer,Skipped
+64,1193,2020-05-20,Layoff,Completed
+65,314,2023-05-07,Layoff,Pending
+66,365,2025-06-28,Retirement,Skipped
+67,577,2024-07-26,Better Offer,Skipped
+68,1923,2022-05-29,Performance,Completed
+69,141,2021-10-07,Performance,Skipped
+70,998,2025-07-04,Personal,Skipped
+71,1224,2025-01-26,Layoff,Pending
+72,1295,2023-11-10,Better Offer,Pending
+73,672,2024-02-14,Performance,Skipped
+74,1852,2025-08-20,Retirement,Pending
+75,1164,2024-07-01,Personal,Pending
+76,1519,2016-10-03,Layoff,Pending
+77,1257,2023-09-24,Layoff,Pending
+78,1067,2013-11-06,Retirement,Pending
+79,1369,2021-04-10,Layoff,Completed
+80,340,2018-02-22,Retirement,Pending
+81,1433,2023-11-28,Layoff,Skipped
+82,396,2020-08-08,Retirement,Skipped
+83,1560,2021-10-22,Performance,Completed
+84,982,2025-02-24,Personal,Pending
+85,104,2025-04-09,Better Offer,Pending
+86,1699,2014-06-08,Layoff,Pending
+87,690,2023-02-08,Performance,Completed
+88,438,2014-09-28,Personal,Completed
+89,1912,2023-09-30,Performance,Skipped
+90,358,2018-03-09,Retirement,Completed
+91,25,2024-03-14,Performance,Pending
+92,856,2024-05-30,Layoff,Completed
+93,1996,2021-11-21,Personal,Completed
+94,704,2024-08-19,Personal,Completed
+95,1670,2019-04-30,Retirement,Skipped
+96,1331,2018-12-16,Retirement,Pending
+97,1324,2019-10-16,Layoff,Pending
+98,1367,2017-11-03,Better Offer,Skipped
+99,493,2022-11-05,Retirement,Skipped
+100,557,2016-11-11,Personal,Skipped
+101,1111,2021-12-03,Personal,Pending
+102,817,2023-08-09,Personal,Completed
+103,1977,2019-01-19,Performance,Completed
+104,1840,2023-10-28,Personal,Skipped
+105,1546,2023-02-18,Personal,Pending
+106,1942,2025-04-26,Layoff,Pending
+107,1986,2021-08-04,Layoff,Pending
+108,224,2021-10-25,Retirement,Completed
+109,1042,2023-11-24,Retirement,Pending
+110,430,2024-08-04,Retirement,Pending
+111,210,2022-11-01,Personal,Pending
+112,1211,2019-06-17,Retirement,Skipped
+113,1601,2021-01-26,Retirement,Skipped
+114,357,2024-11-18,Retirement,Pending
+115,1758,2022-12-25,Retirement,Pending
+116,920,2025-03-03,Layoff,Pending
+117,221,2020-11-22,Performance,Completed
+118,1456,2024-01-09,Performance,Completed
+119,320,2019-08-03,Performance,Pending
+120,741,2025-02-22,Personal,Pending
+121,1445,2023-03-25,Retirement,Completed
+122,1949,2017-12-05,Personal,Completed
+123,1813,2025-05-17,Retirement,Pending
+124,56,2020-04-14,Retirement,Completed
+125,833,2014-09-17,Retirement,Pending
+126,518,2022-07-05,Performance,Pending
+127,583,2021-07-27,Layoff,Skipped
+128,1478,2022-04-06,Personal,Completed
+129,1777,2023-08-13,Layoff,Skipped
+130,6,2019-02-07,Performance,Pending
+131,482,2025-07-01,Better Offer,Completed
+132,113,2020-11-19,Personal,Completed
+133,1807,2022-03-05,Retirement,Skipped
+134,1959,2019-08-23,Performance,Skipped
+135,868,2025-08-10,Layoff,Pending
+136,1472,2025-01-28,Better Offer,Skipped
+137,1243,2016-10-19,Performance,Skipped
+138,855,2019-08-07,Performance,Completed
+139,1099,2022-09-29,Retirement,Skipped
+140,889,2025-09-20,Layoff,Pending
+141,1647,2024-08-22,Better Offer,Completed
+142,52,2016-11-24,Better Offer,Skipped
+143,1142,2017-04-20,Retirement,Pending
+144,1325,2021-05-04,Layoff,Pending
+145,168,2023-04-09,Performance,Pending
+146,649,2022-10-14,Better Offer,Pending
+147,1678,2025-07-31,Personal,Skipped
+148,525,2024-12-21,Better Offer,Pending
+149,1717,2024-06-25,Performance,Completed
+150,1263,2025-08-06,Personal,Skipped
+151,1262,2023-10-15,Retirement,Skipped
+152,1011,2019-09-08,Personal,Skipped
+153,137,2025-09-05,Better Offer,Pending
+154,1370,2015-05-20,Personal,Pending
+155,1234,2024-01-26,Layoff,Skipped
+156,965,2025-06-17,Retirement,Skipped
+157,444,2025-02-12,Layoff,Pending
+158,597,2019-01-23,Better Offer,Completed
+159,106,2014-08-07,Better Offer,Skipped
+160,361,2022-12-26,Retirement,Pending
+161,82,2019-10-29,Performance,Skipped
+162,1604,2021-08-17,Personal,Completed
+163,1167,2023-06-21,Retirement,Pending
+164,579,2024-04-06,Personal,Pending
+165,248,2016-06-03,Retirement,Pending
+166,727,2024-03-25,Personal,Skipped
+167,785,2018-04-30,Retirement,Pending
+168,634,2019-07-30,Layoff,Skipped
+169,169,2023-06-17,Better Offer,Completed
+170,3,2023-06-10,Better Offer,Skipped
+171,750,2023-07-23,Performance,Pending
+172,1846,2023-06-02,Performance,Pending
+173,807,2022-11-27,Better Offer,Skipped
+174,860,2018-12-21,Better Offer,Skipped
+175,854,2019-05-16,Retirement,Completed
+176,1732,2019-01-26,Layoff,Pending
+177,112,2025-07-10,Better Offer,Skipped
+178,327,2024-04-25,Retirement,Skipped
+179,722,2016-11-15,Performance,Pending
+180,581,2025-07-23,Layoff,Pending
+181,1387,2024-07-28,Better Offer,Skipped
+182,1513,2025-05-17,Better Offer,Skipped
+183,90,2019-03-08,Better Offer,Skipped
+184,1444,2014-07-24,Better Offer,Skipped
+185,740,2013-10-26,Personal,Skipped
+186,881,2023-12-19,Better Offer,Skipped
+187,1960,2021-03-28,Performance,Skipped
+188,1899,2023-06-24,Personal,Completed
+189,682,2023-12-08,Performance,Pending
+190,759,2023-10-01,Performance,Pending
+191,1737,2024-03-09,Personal,Skipped
+192,1641,2021-03-15,Retirement,Completed
+193,1571,2022-12-28,Personal,Skipped
+194,272,2017-09-28,Layoff,Pending
+195,1096,2020-01-04,Performance,Skipped
+196,291,2019-11-27,Performance,Completed
+197,1664,2024-11-01,Performance,Skipped
+198,242,2019-03-28,Retirement,Completed
+199,610,2017-05-29,Layoff,Pending
+200,1821,2021-07-27,Better Offer,Completed
+201,699,2022-06-09,Personal,Pending
+202,1893,2019-07-14,Performance,Completed
+203,1249,2024-07-12,Retirement,Completed
+204,659,2020-04-18,Layoff,Skipped
+205,21,2022-11-27,Retirement,Skipped
+206,694,2013-05-30,Performance,Skipped
+207,1637,2024-03-11,Personal,Skipped
+208,274,2024-12-15,Retirement,Skipped
+209,1579,2021-02-08,Layoff,Completed
+210,653,2012-12-17,Personal,Completed
+211,1981,2022-04-14,Personal,Pending
+212,1755,2022-10-24,Personal,Completed
+213,69,2023-03-31,Better Offer,Skipped
+214,364,2018-06-16,Layoff,Completed
+215,1673,2016-02-08,Personal,Skipped
+216,1183,2013-07-15,Retirement,Completed
+217,1926,2024-10-01,Retirement,Pending
+218,1462,2021-01-20,Personal,Skipped
+219,1903,2024-04-28,Personal,Completed
+220,1746,2023-06-19,Retirement,Completed
+221,933,2024-09-20,Performance,Pending
+222,778,2023-12-01,Personal,Completed
+223,1226,2025-07-29,Retirement,Completed
+224,331,2022-12-30,Personal,Pending
+225,1212,2023-03-09,Better Offer,Pending
+226,1656,2016-07-05,Better Offer,Pending
+227,264,2024-08-13,Personal,Pending
+228,531,2025-01-18,Better Offer,Pending
+229,1815,2020-05-28,Performance,Pending
+230,1537,2024-10-26,Personal,Completed
+231,158,2018-11-18,Performance,Skipped
+232,349,2025-07-25,Better Offer,Completed
+233,640,2020-08-08,Personal,Skipped
+234,593,2021-12-01,Layoff,Skipped
+235,872,2017-09-17,Layoff,Completed
+236,1360,2025-05-03,Personal,Completed
+237,714,2016-12-29,Better Offer,Pending
+238,1301,2024-11-20,Layoff,Pending
+239,871,2022-01-24,Retirement,Pending
+240,875,2022-07-06,Personal,Completed
+241,1547,2023-06-25,Better Offer,Skipped
+242,34,2025-04-04,Retirement,Pending
+243,346,2020-02-27,Retirement,Skipped
+244,92,2014-01-18,Better Offer,Pending
+245,1123,2018-07-06,Better Offer,Completed
+246,181,2025-02-08,Performance,Pending
+247,303,2024-11-01,Performance,Completed
+248,847,2023-01-25,Retirement,Pending
+249,315,2022-07-03,Retirement,Completed
+250,57,2025-01-16,Performance,Skipped
+251,941,2023-01-28,Retirement,Completed
+252,963,2025-08-11,Better Offer,Skipped
+253,261,2025-01-16,Performance,Pending
+254,1839,2024-03-26,Better Offer,Pending
+255,116,2025-04-02,Retirement,Completed
+256,1630,2024-04-13,Personal,Completed
+257,1109,2013-05-17,Personal,Skipped
+258,194,2016-12-18,Better Offer,Completed
+259,1138,2024-04-28,Layoff,Completed
+260,1620,2025-07-10,Personal,Skipped
+261,668,2023-04-26,Performance,Completed
+262,977,2015-11-12,Better Offer,Skipped
+263,788,2016-03-04,Personal,Skipped
+264,938,2025-06-14,Retirement,Pending
+265,712,2025-09-04,Layoff,Pending
+266,1127,2021-02-18,Personal,Pending
+267,308,2022-03-20,Personal,Completed
+268,285,2025-09-16,Layoff,Completed
+269,1436,2024-10-19,Personal,Pending
+270,89,2024-08-30,Better Offer,Completed
+271,791,2020-05-21,Better Offer,Pending
+272,1671,2023-06-10,Personal,Pending
+273,1018,2022-05-02,Performance,Skipped
+274,1661,2022-06-26,Retirement,Pending
+275,1227,2024-11-30,Layoff,Pending
+276,720,2023-11-01,Better Offer,Completed
+277,1223,2023-09-05,Retirement,Completed
+278,1962,2015-10-21,Performance,Completed
+279,613,2024-07-21,Personal,Pending
+280,1185,2024-07-21,Better Offer,Skipped
+281,1841,2023-12-16,Performance,Skipped
+282,184,2018-02-26,Layoff,Completed
+283,1508,2025-07-27,Personal,Completed
+284,642,2025-05-07,Better Offer,Pending
+285,24,2020-08-25,Personal,Completed
+286,233,2022-11-19,Performance,Completed
+287,1003,2021-02-19,Better Offer,Pending
+288,1390,2018-08-29,Performance,Pending
+289,1114,2020-11-14,Layoff,Pending
+290,84,2019-11-19,Personal,Skipped
+291,259,2021-02-13,Better Offer,Pending
+292,1230,2019-10-21,Performance,Pending
+293,175,2024-03-05,Retirement,Completed
+294,13,2025-06-17,Retirement,Skipped
+295,891,2024-07-07,Layoff,Pending
+296,1887,2023-05-08,Layoff,Skipped
+297,639,2022-06-03,Better Offer,Pending
+298,1895,2017-09-12,Performance,Skipped
+299,1823,2021-09-17,Layoff,Completed
+300,1454,2025-09-12,Personal,Completed
